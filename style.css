@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+}
+h1{
+    color:red;
+    background:yellow;
+}
+
+h2{
+    color:green;
+    background-color: yellow;
+}
+h1{
+    color:blue;
+}
+p{
+    background: red;
+    color:#fff;
+}
+b{
+    background-color: blue;
+    padding: 10px;
+    color:#fff;
+}
+span{
+    color:#fff;
+    padding: 10px;
+    background: red;
+}
