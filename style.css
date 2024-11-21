@@ -1,4 +1,4 @@
-*{
+/* *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -29,4 +29,14 @@ span{
     color:#fff;
     padding: 10px;
     background: red;
-}
+} */
+ /* nouvelle propeite css: 
+ par exemple, on peut avoir:
+
+ header:is(h1, span, button, a, p)*/
+
+ header :is(h1, h2, span, button, a, p){
+    color:blue;
+    font-family: cursive;
+
+ }
